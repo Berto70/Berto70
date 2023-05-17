@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Berto70)](https://github.com/anuraghazra/github-readme-stats)
+I'm Gabriele Bertinelli! 
+I am an astronomer and a Master student in Physics of Data at University of Padova.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Berto70&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Berto70&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Berto70/Berto70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
