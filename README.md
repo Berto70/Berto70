@@ -10,10 +10,10 @@ My research interests in astrophysics primarily lie in the areas of minor bodies
 I'm also a science communicator for the [Link2Universe](https://t.me/L2U_official) outreach project.
 
 ### Contact info  
-- [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bertinelligabriele@gmail.com)
+<!-- - [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bertinelligabriele@gmail.com)
 - [![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Berto70)
 - [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriele_bertinelli/)
-- [![image](https://img.shields.io/twitter/follow/gab_bertinelli?style=for-the-badge&logo=x&logoColor=white)](https://www.twitter.com/gab_bertinelli/)
+- [![image](https://img.shields.io/twitter/follow/gab_bertinelli?style=for-the-badge&logo=x&logoColor=white)](https://www.twitter.com/gab_bertinelli/) -->
 - [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriele-bertinelli-66250122a/)
 
 ![Berto70's GitHub stats](https://github-readme-stats.vercel.app/api?username=Berto70&show_icons=true&theme=github_dark&show_icons=true)
