@@ -2,7 +2,7 @@
 
 ## Hello there! 👋
 
-I'm Gabriele Bertinelli!  
+I'm Gabriele!  
 
 I am an astrophysicist and a MSc student in Physics of Data at University of Padova.  
 My research interests in astrophysics primarily lie in the areas of minor bodies and planetary science. I am particularly interested in exploring the intersection of minor bodies research and machine learning techniques.  
